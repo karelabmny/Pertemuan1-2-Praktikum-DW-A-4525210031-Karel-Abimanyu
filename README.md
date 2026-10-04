@@ -9,7 +9,7 @@ Halaman web statis sederhana yang saya buat menggunakan HTML untuk memperkenalka
 
 ## Deskripsi Singkat
 
-Proyek ini saya buat untuk menerapkan dasar-dasar HTML, seperti struktur dokumen, heading, paragraf, gambar, list (termasuk list bersarang), tautan, dan navigasi antarbagian dalam satu halaman.
+Proyek ini saya buat untuk menerapkan dasar-dasar HTML, seperti struktur dokumen, heading, paragraf, gambar, list , link, dan navigasi antarbagian dalam satu halaman.
 
 ## Struktur Halaman
 
